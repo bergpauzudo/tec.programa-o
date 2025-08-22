@@ -1,5 +1,5 @@
 # tec.programaçao
-ativadade de eng.software
+engenharia de software
 
 # 🧠 Técnicas de Programação
 
